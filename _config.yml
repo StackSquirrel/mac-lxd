@@ -9,10 +9,10 @@
 #######
 # SITE SETTINGS
 #
-title: bootstrap-template
-description: "a basic bootstrap template for Jekyll with GitHub Pages"
-year: 2020
-author: evan will 
+title: Learning Experience Design (LXD)
+description: "Learning Experience Design (LXD) is a design approach that focuses on creating effective and engaging learning experiences. It combines principles from instructional design, user experience design, and educational psychology to create learning environments that are learner-centered and promote deep understanding."
+year: 2025
+author: Donna MacLeod 
 # add search box to navbar, true/false
 search: true
 
@@ -21,15 +21,15 @@ search: true
 #
 # Optional if using GitHub Pages! If building manually, these must be set correctly.
 #
-# use url for the domain, e.g. https://thecdil.github.io
+# use url for the domain, e.g. https://stacksquirrel.github.io
 # on gh-pages follow the pattern: https://username.github.io
-url:
+url: https://stacksquirrel.github.io
 # use baseurl to add subsection of the domain, e.g. /timelinejs-template
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
-baseurl:
+baseurl:/mac-lxd
 # location of code, the full url to your github repository
-source-code: https://github.com/thecdil/bootstrap-template
+source-code: https://github.com/evanwill/workshop-example
 
 ##########
 # GOOGLE ANALYTICS [optional!]
