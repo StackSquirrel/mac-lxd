@@ -1,5 +1,5 @@
 ---
-title: About This Template
+title: About this template
 nav: About
 nav_order: 2
 ---
