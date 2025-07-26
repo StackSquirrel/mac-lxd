@@ -6,7 +6,7 @@ nav_order: 1
 
 Write pages in Markdown.
 
-## Heading Two 
+## Heading two
 
 Any text with no empty lines between will become a paragraph.
 Leave an blank line between headings and paragraphs.
@@ -15,7 +15,7 @@ Code can be highlighted with `backticks`.
 
 Hyperlinks look like this [GitHub Help](https://help.github.com/).
 
-### Lists 
+### Lists
 
 A bullet list is created using `*`, `+`, or `-`, like:
 
@@ -27,8 +27,8 @@ A numbered list is created using a number + `.`, like:
 
 1. one
 2. two
-6. three
-2. four
+3. three
+4. four
 
 Horizontal rule:
 
